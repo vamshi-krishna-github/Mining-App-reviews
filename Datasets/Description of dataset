@@ -1,0 +1,3 @@
+Each app folder has 3 sets of files names "test", "trainL", "trainU" which represents testing dataset, labeled training dataset and unlabeled training dataset.
+
+Each of those folders has two datasets named "info.txt" and "non-info.txt" which represents informative reviews and non-informative reviews.
